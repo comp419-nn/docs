@@ -4,7 +4,7 @@ In this class, we will use [Jupyter](https://jupyter.org/) notebooks for the pro
 
 It is easy to tinker with code and share your findings with other people, and thus it is widely used in data science teams and scientific computing.
 
-The following assumes that you have already installed Jupyter on your computer. If not, you should check out [Setup Tutorial](Setup Tutorial.md).
+The following assumes that you have already installed Jupyter on your computer. If not, you should check out the setup tutorial.
 
 Start the Jupyter notebook server by running this command:
 
