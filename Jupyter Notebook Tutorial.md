@@ -4,7 +4,7 @@ In this class, we will use [Jupyter](https://jupyter.org/) notebooks for the pro
 
 It is easy to tinker with code and share your findings with other people, and thus it is widely used in data science teams and scientific computing.
 
-The following assumes that you have already installed Jupyter on your computer. If not, you should check out the ```setup page```.
+The following assumes that you have already installed Jupyter on your computer. If not, you should check out [Setup Tutorial](Setup Tutorial.md).
 
 Start the Jupyter notebook server by running this command:
 
@@ -12,7 +12,7 @@ Start the Jupyter notebook server by running this command:
 jupyter notebook
 ```
 
-You can then access your notebooks, usually at http://localhost:8888 or if you're working remotely on a virtual machine, http://EXTERNAL-STATIC-IP:8888. 
+You can then access your notebooks, usually at `http://localhost:8888` or if you're working remotely on a virtual machine, `http://EXTERNAL-STATIC-IP:8888`. 
 
 If everything worked correctly, you should see a similar screen that reveals all Jupyter notebooks in the current directory.
 
