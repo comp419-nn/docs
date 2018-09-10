@@ -22,7 +22,7 @@ To exit, close the window, or:
 3. For now, install the following:
 ```
 conda install numpy
-conda install matlabplotlib
+conda install matplotlib
 conda install jupyter
 ```
 This is the command you should run whenever you are unable to import a certain package.
